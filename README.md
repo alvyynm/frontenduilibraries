@@ -20,6 +20,12 @@ A multituide of frontend UI libraries exist to make development easier and faste
 
 - [shadcn](https://ui.shadcn.com/) - a collection of re-usable components that you can copy and paste into your apps. Based on TailwindCSS, but is not a dependency
 
+## Dedicated UI Libraries 
+
+- [React Hook Form](https://react-hook-form.com/) - Performant, flexible and extensible forms with easy-to-use validation. Works with React Web and Native.
+- [nivo.rocks](https://nivo.rocks/) -  provides a rich set of dataviz components, built on top of D3 and React.
+- [TanStack Table](https://tanstack.com/table/v8) - Headless UI for building tables & datagrids
+
 ### How to select a component library (according to this [Twitter thread](https://twitter.com/devongovett/status/1542546932840534016?t=Pf8taffcV76eQE99mQ2qyw&s=03))
 
 #### Interactions:
